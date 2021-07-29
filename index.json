@@ -1,0 +1,20 @@
+
+{
+"address": "0x990f341946a3fdb507ae7e52d17851b87168017c",
+"name": "My Ethereum Node",
+"logo": "https://link-to-your-logo-folder/logo.png",
+"description": "My Node Description",
+"website_url": "https://mydomain.com",
+"rpc_endpoint": "https://eth-mainnet.mydomain.com",
+"ws_endpoint": "wss://eth-mainnet.mydomain.com",
+"location": "United States",
+"email": "me@mydomain.com",
+"social": {
+
+"telegram": "https://t.me/myaccount-name",
+"facebook": "https://www.facebook.com/myaccount-name",
+"twitter": "https://twitter.com/myaccount-name",
+"medium": "https://medium.com/@myaccount-name"
+}
+
+}
