@@ -1,20 +1,18 @@
 
 {
-"address": "0x990f341946a3fdb507ae7e52d17851b87168017c",
-"name": "My Ethereum Node",
+"address": "0x5AB905AE0135902304eBdFEa3CA420496A628c8F",
+"name": "My Lord Ethereum Node",
 "logo": "https://link-to-your-logo-folder/logo.png",
 "description": "My Node Description",
-"website_url": "https://mydomain.com",
-"rpc_endpoint": "https://eth-mainnet.mydomain.com",
-"ws_endpoint": "wss://eth-mainnet.mydomain.com",
-"location": "United States",
-"email": "me@mydomain.com",
+"website_url": "https://lordnode123.github.io/",
+"rpc_endpoint": "nd-mcrctedgrjaubfn4l5hcmntwsu.ethereum.managedblockchain.eu-west-2.amazonaws.com",
+"ws_endpoint": "nd-mcrctedgrjaubfn4l5hcmntwsu.wss.ethereum.managedblockchain.eu-west-2.amazonaws.com",
+"location": "Europe",
+"email": "lordnode123@gmail.com",
 "social": {
 
-"telegram": "https://t.me/myaccount-name",
-"facebook": "https://www.facebook.com/myaccount-name",
-"twitter": "https://twitter.com/myaccount-name",
-"medium": "https://medium.com/@myaccount-name"
-}
-
+"telegram": "",
+"facebook": "",
+"twitter": "",
+"medium": ""
 }
